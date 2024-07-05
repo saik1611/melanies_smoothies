@@ -1,4 +1,4 @@
 # requirement.txt
 snowflake-connector-python
 snowflake-snowpark-python
-streamlit==
+streamlit==24.1.1
