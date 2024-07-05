@@ -1,5 +1,4 @@
 # requirement.txt
 snowflake-connector-python
 snowflake-snowpark-python
-streamlit==24.0
-run: pip install 
+streamlit==
